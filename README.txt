@@ -1,0 +1,1 @@
+A collection of small things I have learned in python.(Big projects not included)
